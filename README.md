@@ -62,7 +62,7 @@ It includes the following key attributes:
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | RMSE | Accuracy |
 |--------|-------|-----------|
@@ -77,13 +77,13 @@ It includes the following key attributes:
 | ElasticNet Regression | 53.47 | 0.7810 |
 | MLP Regressor | 51.88 | 0.8783 |
 
-🏆 **Best Model:** Random Forest Regressor  
-📈 **Accuracy:** 98.12%  
-📉 **RMSE:** 46.26
+- **Best Model:** Random Forest Regressor  
+- **Accuracy:** 98.12%  
+- **RMSE:** 46.26
 
 ---
 
-## 📚 Key Insights
+##  Key Insights
 
 - AQI strongly correlates with PM2.5, NO₂, and CO levels across urban areas.  
 - Visualization of pollutant trends revealed distinct seasonal variations.  
@@ -91,11 +91,11 @@ It includes the following key attributes:
 
 ---
 
-## 🚀 Results
+##  Results
 
-✅ Achieved **98.12% accuracy** with **Random Forest Regressor**  
-✅ Identified top pollutants influencing AQI  
-✅ Delivered a scalable and explainable machine learning pipeline for air quality prediction
+- Achieved **98.12% accuracy** with **Random Forest Regressor**  
+- Identified top pollutants influencing AQI  
+- Delivered a scalable and explainable machine learning pipeline for air quality prediction
 
 ---
 
