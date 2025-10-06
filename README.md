@@ -1,11 +1,11 @@
-# 🌫️ Air Quality Index (AQI) Prediction using Machine Learning
+#  Air Quality Index (AQI) Prediction using Machine Learning
 
 This project focuses on predicting the **Air Quality Index (AQI)** for Indian cities using various **machine learning regression models**.  
 The goal is to analyze how different pollutants contribute to air quality and build a robust model that accurately forecasts AQI levels.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 Air pollution is one of the major environmental challenges globally.  
 This project leverages data-driven machine learning techniques to **predict AQI values** based on pollutants like PM2.5, NO₂, SO₂, CO, and O₃.
@@ -17,7 +17,7 @@ This project leverages data-driven machine learning techniques to **predict AQI 
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset consists of **daily and hourly air quality data** for multiple Indian cities.  
 It includes the following key attributes:
@@ -33,7 +33,7 @@ It includes the following key attributes:
 
 ---
 
-## 🧩 Project Workflow
+## Project Workflow
 
 1. **Data Loading & Cleaning**  
    - Merged multi-city datasets (`city_day.csv`, `station_day.csv`, etc.)  
@@ -80,16 +80,6 @@ It includes the following key attributes:
 🏆 **Best Model:** Random Forest Regressor  
 📈 **Accuracy:** 98.12%  
 📉 **RMSE:** 46.26
-
----
-
-## 🧾 Technologies Used
-
-- **Programming Language:** Python  
-- **Libraries:**  
-  - `pandas`, `numpy`, `matplotlib`, `seaborn` – Data Analysis & Visualization  
-  - `scikit-learn` – Model Building and Evaluation  
-  - `statsmodels`, `xgboost`, `joblib` – Regression and Model Tuning
 
 ---
 
